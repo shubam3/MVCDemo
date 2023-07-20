@@ -1,0 +1,9 @@
+C:\Users\lavis\source\repos\MVCDemoApplication\MVCDemo\bin\Debug\MVCDemo.dll
+C:\Users\lavis\source\repos\MVCDemoApplication\MVCDemo\bin\Debug\MVCDemo.pdb
+C:\Users\lavis\source\repos\MVCDemoApplication\MVCDemo\bin\Debug\Dapper.dll
+C:\Users\lavis\source\repos\MVCDemoApplication\MVCDemo\bin\Debug\Dapper.xml
+C:\Users\lavis\source\repos\MVCDemoApplication\MVCDemo\obj\Debug\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\lavis\source\repos\MVCDemoApplication\MVCDemo\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lavis\source\repos\MVCDemoApplication\MVCDemo\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\lavis\source\repos\MVCDemoApplication\MVCDemo\obj\Debug\MVCDemo.dll
+C:\Users\lavis\source\repos\MVCDemoApplication\MVCDemo\obj\Debug\MVCDemo.pdb

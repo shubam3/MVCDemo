@@ -1,0 +1,9 @@
+C:\Users\lavis\source\repos\MVCDemoApplication\MvcDemoDB\bin\Debug\MvcDemoDB.dacpac
+C:\Users\lavis\source\repos\MVCDemoApplication\MvcDemoDB\bin\Debug\MvcDemoDB.dll
+C:\Users\lavis\source\repos\MVCDemoApplication\MvcDemoDB\bin\Debug\MvcDemoDB.pdb
+C:\Users\lavis\source\repos\MVCDemoApplication\MvcDemoDB\obj\Debug\Model.xml
+C:\Users\lavis\source\repos\MVCDemoApplication\MvcDemoDB\obj\Debug\refactor.xml
+C:\Users\lavis\source\repos\MVCDemoApplication\MvcDemoDB\obj\Debug\postdeploy.sql
+C:\Users\lavis\source\repos\MVCDemoApplication\MvcDemoDB\obj\Debug\predeploy.sql
+C:\Users\lavis\source\repos\MVCDemoApplication\MvcDemoDB\obj\Debug\MvcDemoDB.dll
+C:\Users\lavis\source\repos\MVCDemoApplication\MvcDemoDB\obj\Debug\MvcDemoDB.pdb
